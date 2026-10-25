@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://share.google/PXFlvB0qx5vIgvy6A">
     <img src="https://github.com/user-attachments/assets/d2496228-e7c4-4061-8f4f-fe9865535558" alt="Latest Release" />
   </a>
 </p>
