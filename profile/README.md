@@ -15,22 +15,12 @@
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## Table of Contents
-
-- [About Ryujinx](#about-ryujinx)
-- [Key Features](#key-features)
-- [System Requirements](#system-requirements)
-- [How to Use](#how-to-use)
-- [Compatibility](#compatibility)
-- [Important to Know](#important-to-know)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Disclaimer](#disclaimer)
-- [Keywords](#keywords)
-
----
 
 ## About Ryujinx
 
